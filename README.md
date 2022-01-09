@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jenkinsak
 - 👀 I’m interested in learning CI/CD
--🌱 I’m currently learning Girhub
+-🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
